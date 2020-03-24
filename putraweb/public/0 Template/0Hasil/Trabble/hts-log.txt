@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 15 Mar 2020 10:16:40 at http://getnajmul.com/theme/trabble/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://getnajmul.com/theme/trabble/ -O1 "D:\Data\Hacking\Web\HTML\TEST\0 Template\0Hasil\Trabble" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:16:42	Warning: 	Note: due to getnajmul.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 45 seconds : 237 links scanned, 236 files written (11714230 bytes overall) [11346421 bytes received at 24400 bytes/sec], 526883 bytes transferred using HTTP compression in 15 files, ratio 17%, 6.8 requests per connection
+(No errors, 1 warnings, 0 messages)

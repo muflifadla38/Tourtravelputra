@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.template-help.com	TRUE	/	FALSE	1999999999	__cfduid	d27f89eff7cb75e3413546dd238c238541584239639
+livedemo00.template-help.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
